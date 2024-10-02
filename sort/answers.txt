@@ -1,0 +1,43 @@
+sort1 uses: TODO
+
+How do you know?: TODO  
+
+sorted5000.txt: 0m0,056s
+sorted10000.txt: 0m2,353s
+sorted50000.txt: 0m0,554s
+random5000.txt: 0m0,086s
+random10000.txt:0m0,189s
+random50000.txt: 0m5,634s
+reversed5000.txt: 0m0,071s
+reversed10000.txt: 0m0,234s
+reversed50000.txt: 0m4,757s
+
+---------
+sort2 uses: TODO
+
+How do you know?: TODO
+
+sorted5000.txt: 0m0,073s
+sorted10000.txt: 0m0,086s
+sorted50000.txt: 0m0,857s
+random5000.txt: 0m0,037s
+random10000.txt: 0m0,055s
+random50000.txt: 0m0,474s
+reversed5000.txt: 0m0,042s
+reversed10000.txt: 0m0,113s
+reversed50000.txt: 0m0,508s
+
+---------
+sort3 uses: TODO
+
+How do you know?: TODO
+
+sorted5000.txt: 0m0,040s
+sorted10000.txt: 0m0,218s
+sorted50000.txt: 0m2,353s
+random5000.txt: 0m0,043s
+random10000.txt: 0m0,138s
+random50000.txt: 0m2,543s
+reversed5000.txt: 0m0,050s
+reversed10000.txt: 0m0,191s
+reversed50000.txt: 0m2,449s
